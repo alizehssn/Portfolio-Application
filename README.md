@@ -1,20 +1,23 @@
-# React Nice Resume     
+# React Portfolio  
+***
+This portfolio uses React.js to create an infinte scroll and react-router-dom npm packages to create client-side routing. The portfolio also Utilizes Nordic Giant free templates.
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+## Table of Contents
+* Title
+* Description
+* Table of Contents
+* Installation
+* Usage
+* Contributing
+* Tests
+* Technologies
+* Author
+* License
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
 
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
-
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
-
-## Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
-
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
-
-## Run Project
+## Installation Instructions
+The live portfolio can be viewed [Here](https://alizehssn.github.io/Portfolio-Application/) or the user can
+follow the steps below from [Github](https://github.com/alizehssn/Portfolio-Application)
 ### 1. Clone the project
 
 ### 2. Run the project
@@ -27,3 +30,25 @@ npm start
 ```shell
 npm run build
 ```
+
+## Usage
+
+The application opens to the homepage with tabs in the header to navigate to specific sections. The same components listed in the header are also accessed through the infinte scroll through the page. 
+
+## Contributing
+
+This application utilizes Nordic Free Templates
+
+## Technologies Used
+
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+* Node.js
+* React.js
+
+## Author
+This application was built utilizing Nordic CSS templates and by Alize Hassan
+
+
